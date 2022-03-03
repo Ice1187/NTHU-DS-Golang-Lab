@@ -3,7 +3,6 @@ package workerpool
 import (
 	"context"
 	"sync"
-//	"fmt"
 )
 
 type Task struct {
